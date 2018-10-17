@@ -1,7 +1,7 @@
 package designpatterns.proxy;
 
 import designpatterns.decorator.Source;
-import designpatterns.decorator.Sourceable;
+import designpatterns.Sourceable;
 
 /**
  * @Author: yangdingshan

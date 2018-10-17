@@ -1,4 +1,4 @@
-import designpatterns.decorator.Sourceable;
+import designpatterns.Sourceable;
 import designpatterns.proxy.Proxy;
 import org.junit.Test;
 

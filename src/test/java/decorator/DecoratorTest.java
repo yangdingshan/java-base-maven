@@ -2,7 +2,7 @@ package decorator;
 
 import designpatterns.decorator.Decorator;
 import designpatterns.decorator.Source;
-import designpatterns.decorator.Sourceable;
+import designpatterns.Sourceable;
 import org.junit.Test;
 
 /**
