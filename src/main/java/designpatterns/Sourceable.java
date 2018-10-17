@@ -1,4 +1,4 @@
-package designpatterns.decorator;
+package designpatterns;
 
 /**
  * @Author: yangdingshan
@@ -6,6 +6,5 @@ package designpatterns.decorator;
  * @Description:
  */
 public interface Sourceable {
-
     void menthod();
 }
